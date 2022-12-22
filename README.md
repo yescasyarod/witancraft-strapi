@@ -1,0 +1,1 @@
+# Strapi with Cloudinary backend
